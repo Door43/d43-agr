@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[agr:home|Door43 (agr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-agr|d43-agr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-agr/archive/master.zip|d43-agr.zip]]
+
+**Recent Changes**
+{{changes>ns = agr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/agr|Ethnologue data]]
+
